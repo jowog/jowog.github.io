@@ -1041,6 +1041,10 @@
     },
     {
         "abbrev": "1P",
+        "bookName": "1Pe"
+    },
+    {
+        "abbrev": "1P",
         "bookName": "1Pt"
     },
     {
@@ -3110,6 +3114,10 @@
     {
         "abbrev": "2P",
         "bookName": "2 P"
+    },
+    {
+        "abbrev": "2P",
+        "bookName": "2Pe"
     },
     {
         "abbrev": "2P",
