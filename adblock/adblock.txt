@@ -1,4 +1,8 @@
 [Adblock Plus 2.0]
+! Homepage: https://jowog.github.io
+! Title: iVysilani List
+! Expires: 14 days
+! Version: 20261003
 |https://ctfs.ceskatelevize.cz/img/*chi-chi-na-gauci*.jpg
 |https://ctfs.ceskatelevize.cz/img/*tohle-bude-bolet*.jpg
 |https://ctfs.ceskatelevize.cz/img/*/filter*.jpg
