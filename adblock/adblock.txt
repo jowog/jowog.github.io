@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 |https://ctfs.ceskatelevize.cz/img/*chi-chi-na-gauci*.jpg
 |https://ctfs.ceskatelevize.cz/img/*tohle-bude-bolet*.jpg
 |https://ctfs.ceskatelevize.cz/img/*/filter*.jpg
